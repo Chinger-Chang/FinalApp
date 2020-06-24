@@ -2,8 +2,7 @@
 //  SceneDelegate.swift
 //  FinalApp
 //
-//  Created by User23 on 2020/6/22.
-//  Copyright © 2020 User23. All rights reserved.
+//  Created by User23 on 2020/6/22.//  Copyright © 2020 User23. All rights reserved.
 //
 
 import UIKit
